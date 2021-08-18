@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como desenvolvedor backend com .NET CORE
-- 🌱 Estudando Arquitetura de Software
+- 🌱 Estudando Arquitetura de Software e Inglês
 
 ### Analytics ⚙️
 
