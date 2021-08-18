@@ -1,7 +1,7 @@
 ### Olá eu sou o Jeferson 👋
 
 
-- 🔭 Atualmente trabalho com desenvolvimento backend em .NET CORE
+- 🔭 Atualmente trabalho como desenvolvedor backend com .NET CORE
 - 🌱 Estudando Arquitetura de Software
 
 ### Analytics ⚙️
