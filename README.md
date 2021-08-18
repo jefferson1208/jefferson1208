@@ -4,11 +4,16 @@
 - 🔭 Atualmente trabalho com desenvolvimento backend em .NET CORE
 - 🌱 Estudando Arquitetura de Software
 
+### Analytics ⚙️
+
  <div>
   <a href="https://github.com/jefferson1208">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefferson1208&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson1208&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+ 
+### Languages & Tools 🛠
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeferson-Netcore" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Jeferson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -17,11 +22,14 @@
   <img align="center" alt="Jeferson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jeferson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeferson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Jeferson-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Jeferson-Aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+ <img align="center" alt="Jeferson-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+ <img align="center" alt="Jeferson-sqlserver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="right" alt="Jeferson-dev" height="140" width="250" src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif">
 </div>
   
-  ##
+### Let's connect? 🤝
  
 <div> 
   
