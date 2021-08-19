@@ -1,8 +1,8 @@
 ### Hi, I'm Jeferson 👋
 
 
-- 🔭 Atualmente trabalho como desenvolvedor backend com .NET CORE
-- 🌱 Estudando Arquitetura de Software e Inglês
+- 🔭 I currently work as backend developer with .net core
+- 🌱 Studying Software Architecture and English
 
 ### Analytics ⚙️
 
