@@ -1,4 +1,4 @@
-### Olá eu sou o Jeferson 👋
+### Hi, I'm Jeferson 👋
 
 
 - 🔭 Atualmente trabalho como desenvolvedor backend com .NET CORE
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson1208&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-### Linguagens & Ferramentas 🛠
+### Languages & Tools 🛠
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeferson-Netcore" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -29,7 +29,7 @@
   <img align="right" alt="Jeferson-dev" height="140" width="250" src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif">
 </div>
   
-### Minhas redes 🤝
+### My networks 🤝
  
 <div> 
   
