@@ -2,7 +2,7 @@
 
 
 - 🔭 I currently work as backend developer with .net core
-- 🌱 Studying Software Architecture and English
+- 🌱 Studying software architecture and english
 
 ### Analytics ⚙️
 
